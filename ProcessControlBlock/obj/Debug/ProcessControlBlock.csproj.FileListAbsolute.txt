@@ -1,0 +1,21 @@
+c:\users\konain\documents\visual studio 2015\Projects\ProcessControlBlock\ProcessControlBlock\bin\Debug\ProcessControlBlock.exe.config
+c:\users\konain\documents\visual studio 2015\Projects\ProcessControlBlock\ProcessControlBlock\bin\Debug\ProcessControlBlock.exe
+c:\users\konain\documents\visual studio 2015\Projects\ProcessControlBlock\ProcessControlBlock\bin\Debug\ProcessControlBlock.pdb
+c:\users\konain\documents\visual studio 2015\Projects\ProcessControlBlock\ProcessControlBlock\obj\Debug\ProcessControlBlock.csprojResolveAssemblyReference.cache
+c:\users\konain\documents\visual studio 2015\Projects\ProcessControlBlock\ProcessControlBlock\obj\Debug\ProcessControlBlock.exe
+c:\users\konain\documents\visual studio 2015\Projects\ProcessControlBlock\ProcessControlBlock\obj\Debug\ProcessControlBlock.pdb
+C:\Users\konain\Documents\Visual Studio 2015\Projects\ProcessControlBlock - Copy\ProcessControlBlock\bin\Debug\ProcessControlBlock.exe.config
+C:\Users\konain\Documents\Visual Studio 2015\Projects\ProcessControlBlock - Copy\ProcessControlBlock\obj\Debug\ProcessControlBlock.exe
+C:\Users\konain\Documents\Visual Studio 2015\Projects\ProcessControlBlock - Copy\ProcessControlBlock\obj\Debug\ProcessControlBlock.pdb
+C:\Users\konain\Documents\Visual Studio 2015\Projects\ProcessControlBlock - Copy\ProcessControlBlock\bin\Debug\ProcessControlBlock.exe
+C:\Users\konain\Documents\Visual Studio 2015\Projects\ProcessControlBlock - Copy\ProcessControlBlock\bin\Debug\ProcessControlBlock.pdb
+C:\Users\konain\Documents\Visual Studio 2015\Projects\ProcessControlBlock - Copy\ProcessControlBlock\obj\Debug\ProcessControlBlock.csprojResolveAssemblyReference.cache
+D:\projects\c#\ProcessControlBlock - Copy\ProcessControlBlock\bin\Debug\ProcessControlBlock.exe.config
+D:\projects\c#\ProcessControlBlock - Copy\ProcessControlBlock\obj\Debug\ProcessControlBlock.exe
+D:\projects\c#\ProcessControlBlock - Copy\ProcessControlBlock\obj\Debug\ProcessControlBlock.pdb
+C:\Users\LENOVO\Desktop\ProcessControlBlock - Copy\ProcessControlBlock\bin\Debug\ProcessControlBlock.exe.config
+C:\Users\LENOVO\Desktop\ProcessControlBlock - Copy\ProcessControlBlock\obj\Debug\ProcessControlBlock.exe
+C:\Users\LENOVO\Desktop\ProcessControlBlock - Copy\ProcessControlBlock\obj\Debug\ProcessControlBlock.pdb
+C:\Users\LENOVO\Desktop\ProcessControlBlock - Copy\ProcessControlBlock\bin\Debug\ProcessControlBlock.exe
+C:\Users\LENOVO\Desktop\ProcessControlBlock - Copy\ProcessControlBlock\bin\Debug\ProcessControlBlock.pdb
+C:\Users\LENOVO\Desktop\ProcessControlBlock - Copy\ProcessControlBlock\obj\Debug\ProcessControlBlock.csprojResolveAssemblyReference.cache
